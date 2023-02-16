@@ -1,12 +1,8 @@
 ***Hi there, I'm _Matiur Rasel_!***
-I'm a full-stack programmer with 4 years of experience building web applications using ASP.NET,C#.
+I'm a full-stack programmer with 4 years of experience building web applications using `ASP.NET` `C#`.
 
 Skills
-`MSSQL`
-`ASP.NET` - `C# `
-`ADO.NET` / `EF` / `LINQ`
-`HTML5` - `Bootstrap5` - `jQuery`
-`Crystal Report` - `RDLC`
+`MSSQL` `ASP.NET`  `C# ` `ADO.NET`  `EF`  `LINQ` `HTML5`  `Bootstrap5`  `jQuery` `Crystal Report`  `RDLC`
 ...
 Projects
 Cloudcampus24 - Full ERP Software for Educational Management System - Not Available - https://cloudcampus24.com/
