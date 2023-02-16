@@ -1,8 +1,8 @@
 ***Hi there, I'm _Matiur Rasel_!*** 😎
 ## I'm a full-stack programmer with 4 years of experience building web applications using `MSSQL` `ASP.NET` `C#`.
 
-## `Skills`
-`MSSQL``ASP.NET``C# ``ADO.NET``EF``LINQ``HTML5``CSS3``Bootstrap5``JavaScript``jQuery``Crystal Report``RDLC`
+## Skills
+`MSSQL` `ASP.NET` `C# ` `ADO.NET` `EF` `LINQ``HTML5``CSS3``Bootstrap5``JavaScript``jQuery``Crystal Report``RDLC`
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/matiur-rasel-05a6b316b/" target="_blank">
