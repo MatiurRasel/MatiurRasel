@@ -12,7 +12,9 @@ Diploma in Enterprise Systems Analysis & Design with C# from IsDB-BISEW (2019)
 B.Sc. in Mathematics from University Of Dhaka (2015)
 ...
 Contact
-GitHub: https://github.com/MatiurRasel
-LinkedIn: https://www.linkedin.com/in/matiur-rasel-05a6b316b/
-Email: matiurrasel1002@gmail.com
+[`GitHub`](https://github.com/MatiurRasel)
+[`LinkedIn`](https://www.linkedin.com/in/matiur-rasel-05a6b316b/)
+[`Email`](matiurrasel1002@gmail.com)
+ 
+ 
 
