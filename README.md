@@ -1,5 +1,4 @@
-Hi there, 
-**I'm Matiur Rasel!**
+**Hi there, I'm _Matiur Rasel_!**
 I'm a full-stack programmer with 4 years of experience building web applications using ASP.NET,C#.
 
 Skills
