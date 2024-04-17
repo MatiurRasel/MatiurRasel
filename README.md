@@ -19,7 +19,7 @@
 		"👨‍💻AskMeAbout": "C# and Design Software",
 		"💻Learning": "Power BI, Angular and Next.JS",
 		"🏦WorkPlace": "Sr. Programmer In a Software Company(DUPL)",
-		"🎓Education": "M.sc(Mathematics) && Online Learning"
+		"🎓Education": "M.sc.(Mathematics) && Online Learning"
 	
 	      }
       }
@@ -62,6 +62,6 @@
 <h3 align='center'>Github Stats</h3>
 <hr/>
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Z3r0J&langs_count=7&layout=compact&theme=merko'/>
-<img src='https://github-readme-stats.vercel.app/api?username=Z3r0J&show_icons=true&count_private=true&theme=merko'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=matiurrasel&langs_count=7&layout=compact&theme=merko'/>
+<img src='https://github-readme-stats.vercel.app/api?username=matiurrasel&show_icons=true&count_private=true&theme=merko'/>
 </div>
