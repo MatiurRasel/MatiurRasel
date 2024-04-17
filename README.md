@@ -45,7 +45,7 @@
 </div>
 
 <div align='center'>
-<img src="https://img.shields.io/static/v1?logo=nextjs&label=%20&message=NEXTJS&color=black&logoColor=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?logo=nextjs&label=%20&message=NEXT.JS&color=black&logoColor=blue&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=node.js&label=%20&message=Node.js&color=black&logoColor=green&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=dotnet&label=%20&message=.NET%20CORE&color=purple&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=microsoft%20sql%20server&label=%20&message=Microsoft%20SQL%20Server&color=red&logoColor=white&style=for-the-badge">
