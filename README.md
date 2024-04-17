@@ -1,9 +1,6 @@
-@@ -1,8 +1,12 @@
 <hr/>
 <h3 align='center'>👋 Welcome, I'm Jean Carlos 🎁</h3>
-<hr/>
 <h3 align='center'>An Entry-Level .NET Full Stack Developer from 🇩🇴 </h3>
-
 <hr/>
 <div align="center">
 	<h3 align="center">Profile Views</h3>
@@ -12,7 +9,7 @@
 <hr/>
 
 <div>
-
+	
     {
 	   "z3r0j": {
 	
@@ -38,6 +35,7 @@
 <img src="https://img.shields.io/static/v1?logo=jquery&label=%20&message=JQUERY&color=white&logoColor=blue&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=bootstrap&label=%20&message=Bootstrap&color=blue&logoColor=white&style=for-the-badge"/>
 </div>
+
 <div align="center">
 <img src="https://img.shields.io/static/v1?logo=react&label=%20&message=REACT&color=black&logoColor=blue&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=JSON%20web%20tokens&label=%20&message=JWT&color=black&logoColor=white&style=for-the-badge"/>
@@ -46,6 +44,7 @@
 <img src="https://img.shields.io/static/v1?logo=visual%20studio&label=%20&message=Visual%20Studio&color=purple&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=visual%20studio%20code&label=%20&message=VS%20Code&color=blue&logoColor=white&style=for-the-badge"/>
 </div>
+
 <div align='center'>
 <img src="https://img.shields.io/static/v1?logo=node.js&label=%20&message=Node.js&color=black&logoColor=green&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=dotnet&label=%20&message=.NET%20CORE&color=purple&logoColor=white&style=for-the-badge"/>
@@ -53,6 +52,7 @@
 <img src="https://img.shields.io/static/v1?logo=mysql&label=%20&message=MySQL&color=white&logoColor=blue&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=php&label=%20&message=PHP&color=black&logoColor=purple&style=for-the-badge"/>
 </div>
+
 <div align="center">
 <img src="https://img.shields.io/static/v1?logo=express&label=%20&message=EXPRESS.JS&color=lightgray&logoColor=black&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=git&label=%20&message=GIT&color=orange&logoColor=white&style=for-the-badge"/>
@@ -60,6 +60,7 @@
 <img src="https://img.shields.io/static/v1?logo=npm&label=%20&message=NPM&color=darkred&logoColor=red&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=linux&label=%20&message=LINUX&color=black&logoColor=yellow&style=for-the-badge"/>
 </div>
+
 <hr/>
 <h3 align='center'>Github Stats</h3>
 <hr/>
