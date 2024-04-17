@@ -4,7 +4,7 @@
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/matiurrasel1002/)
 
-[![Facebook URL](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/matiurrasel/)
+[![Facebook URL](https://img.shields.io/badge/Facebook-Follow-green?logo=facebook&style=for-the-badge)](https://www.facebook.com/matiurrasel/)
 
 ## **I'm a Full Stack Programmer.**
 
