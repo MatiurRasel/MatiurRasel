@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/static/v1?logo=tailwind.css&label=%20&message=TAILWIND&color=blue&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?logo=tailwindcss&label=%20&message=TAILWIND&color=blue&logoColor=black&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=angular&label=%20&message=ANGULAR&color=lightgray&logoColor=black&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=git&label=%20&message=GIT&color=orange&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=github&label=%20&message=GITHUB&color=black&logoColor=white&style=for-the-badge"/>
