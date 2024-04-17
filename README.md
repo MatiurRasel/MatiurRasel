@@ -45,6 +45,7 @@
 </div>
 
 <div align='center'>
+<img src="https://img.shields.io/static/v1?logo=tailwind&label=%20&message=TAILWIND&color=blue&logoColor=black&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=next.js&label=%20&message=NEXTJS&color=black&logoColor=blue&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=node.js&label=%20&message=Node.js&color=black&logoColor=green&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=dotnet&label=%20&message=.NET%20CORE&color=purple&logoColor=white&style=for-the-badge"/>
